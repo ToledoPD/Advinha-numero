@@ -1,6 +1,6 @@
 <html>
 <body>
-  <h1> Advinhe o numero que estou pensando?<\h1>
+  <h1> Advinhe o numero que estou pensando?</h1>
   <form method="post">
     <input type="number" name="numero_tentativa"></input>
     <button type="submit">Tentar</button>	
